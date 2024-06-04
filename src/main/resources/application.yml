@@ -1,0 +1,7 @@
+spring:
+  application:
+    name: spring-adventure
+
+logging:
+  file:
+    path: ./

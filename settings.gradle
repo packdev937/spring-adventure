@@ -2,4 +2,5 @@ rootProject.name = 'spring-adventure'
 
 include 'elastic-search'
 include 'elastic-stack'
+include 'swagger'
 

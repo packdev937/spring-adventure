@@ -1,6 +1,7 @@
 allprojects {
     apply plugin: 'java'
 
+
     group = 'packdev937'
     version = '0.0.1-SNAPSHOT'
     sourceCompatibility = '17'
